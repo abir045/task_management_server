@@ -2,8 +2,8 @@
 
 ## Live Links
 
-Live API Endpoint: https://task-management-server-seven-blush.vercel.app/
-Frontend Repository: https://task-manager-796b8.web.app/
+- Live API Endpoint: https://task-management-server-seven-blush.vercel.app/
+- Frontend Repository: https://task-manager-796b8.web.app/
 
 ## Dependencies
 
@@ -19,8 +19,9 @@ The server relies on the following npm packages:
 Clone the Repository:
 
 -git clone https://github.com/abir045/task_management_server.git
-cd task_management_server
--Install Dependencies:
+
+- cd task_management_server
+- Install Dependencies:
 
 - npm install
 - Set Up Environment Variables: Create a .env file in the root directory and add the following variables:
