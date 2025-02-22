@@ -18,19 +18,19 @@ The server relies on the following npm packages:
 
 Clone the Repository:
 
-git clone https://github.com/abir045/task_management_server.git
+-git clone https://github.com/abir045/task_management_server.git
 cd task_management_server
-Install Dependencies:
+-Install Dependencies:
 
 - npm install
-  Set Up Environment Variables: Create a .env file in the root directory and add the following variables:
+- Set Up Environment Variables: Create a .env file in the root directory and add the following variables:
 
 - DB_USER=your_mongodb_username
 - DB_PASS=your_mongodb_pass
   Start the Server:
 
 - npm start
-  The server should now be running on http://localhost:5000.
+- The server should now be running on http://localhost:5000.
 
 ## Technologies Used
 
